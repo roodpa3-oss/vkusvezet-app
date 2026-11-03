@@ -1,0 +1,9 @@
+[VkusVezet System Configuration]
+version = 1.0.0
+environment = staging
+host = 127.0.0.1
+port = 8080
+db_name = vkusvezet_db
+db_user = vkusvezet_user
+redis_host = 127.0.0.1
+redis_port = 6379
